@@ -1,6 +1,8 @@
 # guice-named-provides-example
 
-Running the example:
+Working example of [guice](https://github.com/google/guice) using `@Provides` and `@Named` annotations.
+
+Run it with:
 
 ```
 mvn clean install
